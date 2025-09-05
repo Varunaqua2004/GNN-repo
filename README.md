@@ -8,3 +8,4 @@ Graphical Neural Networks for predicting Molecular Properties.
 4. Scikit-Learn
 5. TensorFlow
 6. Keras
+7. Matplotlib
