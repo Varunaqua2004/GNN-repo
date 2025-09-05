@@ -1,6 +1,6 @@
 # GNN-repo
 Graphical Neural Networks for predicting Molecular Properties.
-
+<br>
 # Tool Stack:
 1. Python
 2. RDKit
